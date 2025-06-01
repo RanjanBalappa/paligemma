@@ -1,1 +1,1 @@
-# Paligemma VLLM - Pytorch
+# PaliGemma VLLM - Pytorch
