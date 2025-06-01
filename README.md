@@ -1,1 +1,1 @@
-# Paligemma Model Implementation Pytorch
+# Paligemma VLLM - Pytorch
